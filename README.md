@@ -37,6 +37,7 @@ cd backend
 npm run dev
 
 Start the frontend React app:
+<br>
 Open a new terminal:
 
 cd frontend
